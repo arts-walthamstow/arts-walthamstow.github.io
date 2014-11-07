@@ -1,0 +1,15 @@
+# Site settings
+title: Cooperative for Performing Arts Walthamstow
+email: arts.walthamstow@cenatus.org
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.arts-walthamstow.co.uk" # the base hostname & protocol for your site
+twitter_username: andistuder
+github_username:  andistuder
+
+# Build settings
+markdown: kramdown
+exclude: [CNAME, Gemfile, Gemfile.lock, params.json]
