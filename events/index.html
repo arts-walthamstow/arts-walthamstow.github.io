@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: events
 ---
 
 <div class="home">
@@ -7,14 +7,16 @@ layout: default
   <h1 class="page-heading">Events</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% for post in site.posts order:descending %}
+      {% if post.categories contains 'event' %} 
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {%endif%}
     {% endfor %}
   </ul>
 
