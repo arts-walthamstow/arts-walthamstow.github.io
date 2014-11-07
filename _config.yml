@@ -12,4 +12,4 @@ github_username:  andistuder
 
 # Build settings
 markdown: kramdown
-exclude: [CNAME, Gemfile, Gemfile.lock, params.json]
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "params.json"]
