@@ -7,7 +7,7 @@ layout: events
   <h1 class="page-heading">Events</h1>
 
   <ul class="post-list">
-    {% for post in site.posts order:descending %}
+    {% for post in site.posts reversed %}
       {% if post.categories contains 'event' %} 
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -15,6 +15,9 @@ layout: events
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
+          <p>
+          {{ post.excerpt }}
+          </p>
         </li>
       {%endif%}
     {% endfor %}
