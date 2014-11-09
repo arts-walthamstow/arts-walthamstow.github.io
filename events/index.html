@@ -2,7 +2,7 @@
 layout: events
 ---
 
-<div class="home">
+<div class="events">
 
   <h1 class="page-heading">Events</h1>
 
@@ -10,19 +10,31 @@ layout: events
     {% for post in site.posts reversed %}
       {% if post.categories contains 'event' %} 
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">
+            {{ post.date | date: "%-d %b %Y, %H:%M" }}
+            {% if post.end_date %}
+              {{ post.end_date | date: " - %H:%M" }}
+            {% endif %}
+          </span>
 
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
           <p>
-          {{ post.excerpt }}
+            {%if post.excerpt %} {{ post.excerpt }} {% else %} {{ content }} {% endif %}
+          </p>
+          <p>
+            <i>
+            {% if post.ticketing %}
+              {{ post.ticketing }}
+            {% endif %}
+            </i>
           </p>
         </li>
       {%endif%}
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
 
 </div>

@@ -3,8 +3,7 @@ layout: post
 title:  "Worshop"
 date:   2014-11-07 13:10:00
 excerpt: "Here as ummery"
-order: 3
-categories: event
+categories: template
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
