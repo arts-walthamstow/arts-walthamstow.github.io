@@ -4,7 +4,7 @@ layout: events
 
 <div class="events">
 
-  <h1 class="page-heading">Events</h1>
+  <h2 class="page-heading">Events</h2>
 
   <ul class="post-list">
     {% for post in site.posts reversed %}
@@ -20,20 +20,13 @@ layout: events
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-
-          {%if post.excerpt %}
-            <p>
-              {{ post.excerpt }}
-            </p>
-          {% else %}
-            {{ content }}
-          {% endif %}
           <p>
-            <i>
+            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
             {% if post.ticketing %}
-              {{ post.ticketing }}
+              <i>
+                {{ post.ticketing }}
+              </i>
             {% endif %}
-            </i>
           </p>
         </li>
       {%endif%}

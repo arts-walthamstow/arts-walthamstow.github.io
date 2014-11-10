@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Artist's dinner"
-date:   2014-12-05 19:00:00
-end_date: 2014-12-05 20:30:00
+date:   2014-12-12 19:00:00
+end_date: 2014-12-12 20:30:00
 categories: event
 ticketing: Free to attend. RSVP.
 ---

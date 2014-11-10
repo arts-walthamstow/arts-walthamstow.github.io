@@ -1,12 +1,17 @@
 ---
-layout: default
+layout: events
 ---
 <div class="post">
 
-  <header class="post-header">
+  <div class="page-heading">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <p class="post-meta">
+      {{ page.date | date: "%-d %b %Y, %H:%M" }}
+      {% if page.end_date %}
+        {{ page.end_date | date: " - %H:%M" }}
+      {% endif %}
+    </p>
+  </div>
 
   <article class="post-content">
     {{ content }}

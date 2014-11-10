@@ -1,10 +1,18 @@
 <header>
-  <h1>Introducing the Walthamstow Performing Arts Collective</h1>
-  <p>
-    10 days of performance, art, music, theatre, dance, circus and physical theatre, science, story-telling, film, and being together.
-  </p>
+  {% if page.title %}
+    <h2>Introducing the Walthamstow Performing Arts Collective</h2>
+  {% else %}
+    <h1>Introducing the Walthamstow Performing Arts Collective</h1>
+  {% endif %}
+
   <p>
     <strong>4 - 14 December 2014</strong>
+  </p>
+  <p>
+    10 days of performance, art, music, theatre, dance, circus and physical theatre, science, story-telling, film, and being together.
+    {% if page.title %}
+      <a href='/events' title='events'>View full programme.</a>
+    {% endif %}
   </p>
   <p>
     <strong>38 Hoe Street</strong><br>

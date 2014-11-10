@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mummy Look!"
-date:   2014-12-05 11:00:00
-end_date: 2014-12-05 12:00:00
+date:   2014-12-11 11:00:00
+end_date: 2014-12-11 12:00:00
 categories: event
 ticketing: "Free to attend, aimed at 0-5 year olds and their carers."
 ---
