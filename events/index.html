@@ -24,7 +24,7 @@ layout: events
             {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
             {% if post.ticketing %}
               <i>
-                {{ post.ticketing }}
+                {{ post.ticketing | markdownify | remove: '<p>' | remove: '</p>' }}
               </i>
             {% endif %}
           </p>

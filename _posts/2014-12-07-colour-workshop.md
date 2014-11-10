@@ -4,7 +4,7 @@ title:  Colour Brings People Together
 date:   2014-12-07 12:00:00
 end_date: 2014-12-07 16:00:00
 categories: event
-ticketing: "Free to attend, all ages"
+ticketing: "Free to attend, all ages."
 ---
 Colour naming and colour matching workshop facilitated by Dimitris Mylonas and Silvia Sampons.
 
