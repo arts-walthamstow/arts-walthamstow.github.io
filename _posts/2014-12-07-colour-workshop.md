@@ -5,7 +5,7 @@ date:   2014-12-07 12:00:00
 end_date: 2014-12-07 16:00:00
 categories: event
 ticketing: "Free to attend, all ages."
-image: "2014-12/colour-names-2.jpg"
+image: "2014/12/colour-names-2.jpg"
 image-alt: "Colour Naming, source: Dimitris Mylonas"
 ---
 A workshop of colour naming games and sensory exploration of colour mixing. Facilitated by Dimitris Mylonas and Silvia Sampons.
