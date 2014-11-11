@@ -16,6 +16,21 @@
 
     </div>
     <script src="/js/scale.fix.js"></script>
-    <script src="/js/madmimi.js"></script>
+    <script src="/js/better-simple-slideshow.min.js"></script>
+
+    <script>
+      var opts = {
+        auto : {
+          speed : 2500,
+          pauseOnHover : true
+        },
+        fullScreen : false,
+        swipe : true
+      };
+
+      makeBSS('.slideshow-events', opts);
+    </script>
+
+
   </body>
 </html>

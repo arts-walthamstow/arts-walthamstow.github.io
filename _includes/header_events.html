@@ -1,4 +1,13 @@
 <header>
+  <nav>
+    {% if page.title %}
+      <a href="/">Home</a> >
+      <a href="/events/">Events</a>
+    {% else %}
+      <a href="/">Home</a>
+    {% endif %}
+  </nav>
+
   {% if page.title %}
     <h2>Introducing the Walthamstow Performing Arts Collective</h2>
   {% else %}

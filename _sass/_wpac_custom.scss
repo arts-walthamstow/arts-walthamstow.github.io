@@ -1,8 +1,16 @@
+nav {
+  margin-bottom: 5px;
+  margin-top: -26px;
+}
 .wrapper {
   overflow: hidden;
 }
 
 .events {
+  .slideshow-events {
+    margin-bottom: 20px;
+  }
+
   .post-list {
     margin-left: 0;
     list-style: none;

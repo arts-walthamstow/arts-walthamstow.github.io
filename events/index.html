@@ -4,6 +4,19 @@ layout: events
 
 <div class="events">
 
+  <div class="bss-slides slideshow-events">
+    {% for post in site.posts reversed %}
+      {% if post.categories contains 'event' and post.image %}
+        <figure>
+          <img src="/assets/{{ post.image }}" alt="{{ post.title }}: {{post.image-alt}}" width="100%">
+          <figcaption>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </figcaption>
+        </figure>
+      {% endif %}
+    {% endfor %}
+  </div>
+
   <h2 class="page-heading">Events</h2>
 
   <ul class="post-list">
