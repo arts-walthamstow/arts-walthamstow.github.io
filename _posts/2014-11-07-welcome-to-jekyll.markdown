@@ -2,7 +2,9 @@
 layout: post
 title:  "Worshop"
 date:   2014-11-07 13:10:00
-excerpt: "Here as ummery"
+end_date: 2014-11-07 14:10:00
+image: "2014-12/not-graffiti-web.jpg"
+image-alt: "Not Graffiti, source: Sadie Edginton"
 categories: template
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
