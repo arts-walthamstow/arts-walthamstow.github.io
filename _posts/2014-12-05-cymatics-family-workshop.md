@@ -6,4 +6,4 @@ end_date: 2014-12-05 18:30:00
 categories: event
 ticketing: "Free to attend, all ages."
 ---
-A short presentation of cymtatics, the study of visible sound co vibration presented by Mark Wagner and Khaled Hakim.
+Mark Wagner presents the vibratory phenomena of Cymatics - salt and water vibrating and making magical patterns to musical drones and wavelengths.

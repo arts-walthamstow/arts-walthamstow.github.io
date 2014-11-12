@@ -3,12 +3,13 @@ layout: post
 title:  "Artists' dinner"
 date:   2014-12-05 19:00:00
 end_date: 2014-12-05 20:30:00
+excerpt: "For artists and non-artists to share stories of your art. Bring a dish and an example of your work."
 categories: event
 ticketing: Free to attend. [RSVP](mailto:layla@shunt.co.uk).
 ---
-Sharing a meal and hearing about each other’s practices. Bring a dish to share, and something to show.
+Artists' dinner for artists and non-artists to share stories of your art. Bring a dish and an example of your work.
 
-Hosted by Layla Rosa, Olivier Rodriguez and Suzanne van Rossenberg.
+This can be an object, slide, text, image, video or performance. Around 10 minutes each so there'll be time to eat and chat with each other.
 
 There are limited places, so book early by emailing [layla@shunt.co.uk][email-link]
 

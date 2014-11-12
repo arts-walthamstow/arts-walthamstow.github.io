@@ -7,4 +7,4 @@ ticketing: "Free to attend, donations welcome."
 image: "2014/12/potterc-041226-joshua_weiner-2.jpg"
 image-alt: "Colin Potter, source: Joshua Weiner"
 ---
-Live music by Raagnagrok (Mark Pilkington + Zali Krishna) and Colin Potter.
+Live music by Raagnagrok (Mark Pilkington + Zali Krishna), Colin Potter (Nurse With Wound), and DJ Luke Turner (The Quietus).

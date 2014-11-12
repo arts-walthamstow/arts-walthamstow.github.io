@@ -8,4 +8,4 @@ ticketing: "Free to attend."
 ---
 A workshop to collaboratively collect sound recordings from the local acoustic ecology.
 
-Participants are encouraged to bring audio recording equimpent and outdoor clothing. Facilitated Alexandra Albert, Olivier Rodriguez and Andi Studer.
+Participants are encouraged to bring audio recording equipment and outdoor clothing. Facilitated by Alexandra Albert, Olivier Rodriguez and Andi Studer.
