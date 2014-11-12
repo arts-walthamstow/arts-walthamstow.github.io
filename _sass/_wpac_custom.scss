@@ -10,19 +10,22 @@ nav {
   .slideshow-events {
     margin-bottom: 20px;
   }
-
-  .post-list {
+}
+.events .post-list, header ul {
     margin-left: 0;
     list-style: none;
     padding-left: 0;
     h2, p {
       margin-bottom: 5px;
     }
-    li {
-      margin-bottom: 15px;
-    }
-  }
 }
+.events .post-list li {
+  margin-bottom: 15px;
+}
+
+
+
+
 .post {
   .page-image {
     margin-bottom: 20px;
