@@ -8,7 +8,7 @@ ticketing: "Free to attend, all ages."
 image: "2014/12/colour-names-2.jpg"
 image-alt: "Colour Naming, source: Dimitris Mylonas"
 ---
-A workshop of colour naming games and sensory exploration of colour mixing. Facilitated by Dimitris Mylonas.
+A workshop of colour naming games. Facilitated by Dimitris Mylonas.
 
 A drop in, family friendly workshop on the art and science of colour. This workshop aims to present the (mis-)communication involved in the use of natural language to describe colours.
 
