@@ -6,6 +6,8 @@ end_date: 2014-12-06 13:30:00
 categories: event
 excerpt: "A voice workout for Stage & Public Speaking, facilitated by Richard Hollingworth."
 ticketing: "Free to attend, [RSVP](mailto:info@veryvocab.co.uk)."
+image: "2014/12/richard-hollingworth.jpg"
+image-alt: "Richard, source: Richard Hollingworth"
 ---
 This is for anyone looking for the chance to give their voice a good outing! Facilitated by [Richard Hollingworth][link].
 

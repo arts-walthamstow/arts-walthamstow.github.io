@@ -5,6 +5,8 @@ date:   2014-12-12 19:00:00
 end_date: 2014-12-12 20:30:00
 excerpt: "For artists and non-artists to share stories of your art. Bring a dish and an example of your work."
 categories: event
+image: "2014/12/artist-dinner2.jpg"
+image-alt: "Dinner on table, source: Andi Studer"
 ticketing: Free to attend. [RSVP](mailto:layla@shunt.co.uk).
 ---
 Artists' dinner for artists and non-artists to share stories of your art. Bring a dish and an example of your work.

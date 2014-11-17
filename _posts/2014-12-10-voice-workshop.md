@@ -5,6 +5,8 @@ date:   2014-12-10 19:00:00
 end_date: 2014-12-10 20:00:00
 categories: event
 ticketing: Free to attend, [RSVP](mailto:info@veryvocab.co.uk).
+image: "2014/12/richard-hollingworth.jpg"
+image-alt: "Richard, source: Richard Hollingworth"
 ---
 This session will take at look at some common obstacles to clear articulation and explore how to overcome them.
 

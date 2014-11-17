@@ -10,7 +10,7 @@ layout: events
         <figure>
           <img src="/assets/{{ post.image }}" alt="{{ post.title }}: {{post.image-alt}}" width="100%">
           <figcaption>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%-d %b %Y" }}</a>
           </figcaption>
         </figure>
       {% endif %}
