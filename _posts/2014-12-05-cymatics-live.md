@@ -7,3 +7,5 @@ excerpt: "Performance of Cymatics by Mark Wagner and Sufi music and energizing m
 ticketing: "Free to attend, donations welcome."
 ---
 Music of the Spheres: performance of Cymatics by Mark Wagner using vibratory phenomena, sound manipulation, and mystical experience with processes borrowed from alchemical practices. Sufi music and energizing meditative practices led by Khaled Hakim, with frame-drum, Chinese violin, Bulgarian wind instruments, and interactive chanting and movements.
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/QTwP-UeWkb4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

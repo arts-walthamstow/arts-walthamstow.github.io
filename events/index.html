@@ -5,7 +5,7 @@ layout: events
 <div class="events">
 
   <div class="bss-slides slideshow-events">
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
       {% if post.categories contains 'event' and post.image %}
         <figure>
           <img src="/assets/{{ post.image }}" alt="{{ post.title }}: {{post.image-alt}}" width="100%">
