@@ -5,8 +5,8 @@ date:   2014-12-06 20:00:00
 categories: event
 excerpt: "Live music by Raagnagrok (Mark Pilkington + Zali Krishna), Colin Potter (Nurse With Wound), and DJ Luke Turner (The Quietus)."
 ticketing: "Free to attend, donations welcome."
-image: "2014/12/potterc-041226-joshua_weiner-2.jpg"
-image-alt: "Colin Potter, source: Joshua Weiner"
+image: "2014/12/colin-potter.jpg"
+image-alt: "Colin Potter, source: Colin Potter"
 ---
 Live music by [Raagnagrok](http://www.raagnagrok.co.uk/) (Mark Pilkington + Zali Krishna), [Colin Potter](http://www.icrdistribution.com/colinpotter.html) (Nurse With Wound), and DJ Luke Turner (The Quietus).
 
