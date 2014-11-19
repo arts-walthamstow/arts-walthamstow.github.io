@@ -1,7 +1,28 @@
-nav {
+nav#events-header {
   margin-bottom: 5px;
   margin-top: -26px;
 }
+nav.horizontal ul {
+  padding-left: 0;
+  overflow: hidden;
+}
+nav.horizontal ul li{
+  display: inline;
+  list-style-type: none;
+}
+
+nav.horizontal ul li.left {
+  float: left;
+}
+
+nav.horizontal ul li.right {
+  float: right;
+}
+
+nav#post-footer {
+  margin-top: 20px;
+}
+
 .wrapper {
   overflow: hidden;
 }

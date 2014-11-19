@@ -21,5 +21,18 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  <nav class='horizontal' id='post-footer'>
+    <ul>
+      {% if page.previous and page.previous.categories contains 'event' %}
+        <li class="left">
+          <a href="{{ page.previous.url }}" title="{{page.previous.title}}">&lt; {{page.previous.title}}</a>
+        </li>
+      {% endif %}
+      {% if page.next and page.next.categories contains 'event'%}
+        <li class="right">
+          <a href="{{ page.next.url }}" title="{{page.next.title}}">{{page.next.title}} &gt;</a>
+        </li>
+      {% endif %}
+    </ul>
+  </nav>
 </div>
