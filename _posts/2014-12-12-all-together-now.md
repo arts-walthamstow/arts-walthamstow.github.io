@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "All Together Now (Family Discovery Day)"
-date:   2014-12-12 14:00:00
-end_date: 2014-12-12 17:30:00
+date:   2014-12-12 16:00:00
+end_date: 2014-12-12 18:00:00
 categories: event
 ticketing: "Free to attend, all ages and family groups encouraged. [RSVP](mailto:pippajwright@gmail.com)."
 ---
