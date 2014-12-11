@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Tom Wheatley and Andrew Lisle
-date:   2014-12-13 20:00:00
+date:   2014-12-13 19:30:00
+end_date: 2014-12-13 21:00:00
 categories: event
 ticketing: "Free to attend, donations welcome."
 image: "2014/12/andrew-lisle.jpg"
